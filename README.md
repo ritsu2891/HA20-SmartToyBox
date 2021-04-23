@@ -1,11 +1,12 @@
 <div align="center" style="vertical-align: center;">
-  <!-- <img src="__ロゴ画像#1__" height="80px" /> -->
+  <img src="https://cdn.rpaka.dev/icon/ha20-toybox.png" height="80px" />
   <h1>HA20-SmartToyBox</h1>
   <h1>スマートおもちゃ箱</h1>
-  <h1>愛知県大学対抗ハッカソン「HackAichi 2020」</h1>
-</div>
+  <h1>愛知県大学対抗ハッカソン<br/>「HackAichi 2020」</h1>
+  <h2>CKD賞受賞</h2>
+</div><br/>
 
-![動作イメージ](md-img/SmartToyBox.png)
+![動作イメージ](https://cdn.rpaka.dev/useimage/ha20-toybox/SmartToyBox.png)
 
 ## 概要
 
@@ -21,13 +22,15 @@
 
 ## 構成
 
-![構成](md-img/config.jpg)
-![おもちゃ箱の判別](md-img/sensor.jpg)
+![構成](https://cdn.rpaka.dev/arch/ha20-toybox.jpg)
+![おもちゃ箱の判別](https://cdn.rpaka.dev/useimage/ha20-toybox/sensor.jpg)
 
 ### IoT 端末
 
 - Raspberry Pi 3B+
 - 超音波センサ（HC-SR04）
+
+![回路図](https://cdn.rpaka.dev/useimage/ha20-toybox/circuit.jpg)
 
 ### バックエンド
 
