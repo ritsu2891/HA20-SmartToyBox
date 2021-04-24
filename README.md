@@ -4,6 +4,14 @@
   <h1>スマートおもちゃ箱</h1>
   <h1>愛知県大学対抗ハッカソン<br/>「HackAichi 2020」</h1>
   <h2>CKD賞受賞</h2>
+  <img src="https://cdn.rpaka.dev/logo/python.svg" height="80px" style="margin-right: 15px;" />
+  <img src="https://cdn.rpaka.dev/logo/nodejs.svg" height="80px" style="margin-right: 15px;" />
+  <img src="https://cdn.rpaka.dev/logo/js.png" height="80px" style="margin-right: 15px;" />
+  <img src="https://cdn.rpaka.dev/logo/react.svg" height="80px" />
+  <br />
+  <img src="https://cdn.rpaka.dev/logo/aws-apigateway.svg" height="80px" style="margin-right: 15px;" />
+  <img src="https://cdn.rpaka.dev/logo/aws-lambda.svg" height="80px" style="margin-right: 15px;" />
+  <img src="https://cdn.rpaka.dev/logo/aws-ddb.svg" height="80px" />
 </div><br/>
 
 ![動作イメージ](https://cdn.rpaka.dev/useimage/ha20-toybox/SmartToyBox.png)
